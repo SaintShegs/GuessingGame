@@ -111,6 +111,7 @@ aga.addEventListener('click', function(){
     score=20
     num.textContent='?'
     chat('Type a number')
+    
     sscore.textContent=20
     num.classList.remove('numberover')
 })
